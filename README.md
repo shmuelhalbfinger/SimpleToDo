@@ -11,7 +11,7 @@ Time spent: **4** hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
+* [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some issues with the constraints of the button, ListView and text box. However, I was
+able to fix that up by manually setting the constraints.
 
 ## License
 
